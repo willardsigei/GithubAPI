@@ -1,4 +1,4 @@
-# Title
+<!-- # Title
 * Github Search
 
 ## Description
@@ -64,4 +64,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## License 
 * MIT License
-* Copyright (c) **Kipngeno Sigei || 2021**
+* Copyright (c) **Kipngeno Sigei || 2021** -->
